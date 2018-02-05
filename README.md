@@ -16,4 +16,9 @@ Diffrent domain or same domain jwt token examples
 [http://localhost:5000/auth/arslan/topcu](http://localhost:5000/auth/arslan/topcu)
 
 
+### Token Check:
+
+    http://localhost:5000/token/<token>
+
+
 ![Screenshot](single-sign-on.jpg)
