@@ -2,7 +2,7 @@
 
 Diffrent domain or same domain jwt token examples
 
-### Start the web server:
+### Dependency:
     go get github.com/codegangsta/martini
     go get github.com/codegangsta/martini-contrib/render
     go get github.com/robbert229/jwt
