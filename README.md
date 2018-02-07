@@ -22,7 +22,7 @@ Different domain or same domain jwt token examples
 
 ### Cross Domain for martini cors settings:
     
-    https://github.com/rs/cors/blob/master/examples/martini/server.go
+    [https://github.com/rs/cors/blob/master/examples/martini/server.go](https://github.com/rs/cors/blob/master/examples/martini/server.go)
 
 
 ![Screenshot](single-sign-on.jpg)
