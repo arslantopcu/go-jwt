@@ -20,5 +20,9 @@ Different domain or same domain jwt token examples
 
     http://localhost:5000/token/<token>
 
+### Cross Domain for martini cors settings:
+    
+    https://github.com/rs/cors/blob/master/examples/martini/server.go
+
 
 ![Screenshot](single-sign-on.jpg)
