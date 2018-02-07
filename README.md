@@ -1,6 +1,6 @@
 # go-jwt
 
-Diffrent domain or same domain jwt token examples
+Different domain or same domain jwt token examples
 
 ### Dependency:
     go get github.com/codegangsta/martini
